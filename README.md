@@ -7,7 +7,7 @@ Handy PowerShell scripts
 
 ## Join-Url
 
-The Join-Url function combines seperate url segments into a single url.
+The Join-Url function combines seperate Url segments into a single Url.
 
 **Syntax**
 ```powershell
