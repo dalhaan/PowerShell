@@ -1,7 +1,7 @@
 
 # PowerShell
 
-Handy PowerShell scripts
+Handy PowerShell scripts for Windows operating systems that take advantage of the .NET framework.
 
 * Join-Url
 * ConvertTo-VDJ
